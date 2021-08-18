@@ -1,0 +1,49 @@
+.header{
+    width: 75%;
+    display: flex;
+    border: 2px solid purple;
+    align-items: center;
+    background-color: #3F0E40;
+    position: relative;
+ margin-left :25%; 
+}
+.header_term{
+    display: flex;
+    align-items: center;
+}
+.header_term img{
+    height: 30px;
+}
+.heading{
+    color: white;
+}
+.input{
+    display: flex;
+align-items: center;
+color: #3F0E40;
+   background-color: white;
+   flex:0.3;
+   margin: auto;
+   justify-content: flex-end;
+   border-radius: 10px;
+   padding: 2px;
+}
+.inp{
+    border: none;
+    text-align: right;
+    color: #3F0E40;
+    font-weight: bold;
+    padding: 10px;
+}
+.btn{
+    position: absolute;
+    border-radius: 20px;
+    height: 40px;
+    width: 40px;
+    right: 10px;
+}
+.arrow{
+    height: 20px;
+  
+    
+}
